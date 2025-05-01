@@ -28,6 +28,8 @@ Up to 100 units: 5 BDT/unit
 
 Above 200 units: 10 BDT/unit
 
+---
+
 🛠️ Technologies Used:
 Java (JDK 8+)
 
