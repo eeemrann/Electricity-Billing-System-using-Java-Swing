@@ -47,4 +47,6 @@ Enter details and click OK to generate a bill or Reset to clear the form.
 
 🖼️ UI Preview:
 
-https://github.com/user-attachments/assets/d3ff1870-662c-43bd-923d-3833064f25b0
+https://github.com/user-attachments/assets/3320a9d4-e454-4db8-baf4-6b1dcd46178f
+
+https://github.com/user-attachments/assets/ba8fced7-15a9-4371-b516-5eeeb12586d1
