@@ -2,6 +2,7 @@
 
 This project is a simple Electricity Billing System developed using Java Swing for the GUI and core Java for the logic. It simulates a basic billing system where users can input customer details and electricity units consumed to generate a bill instantly.
 
+---
 
 💼 Features:
 
@@ -15,6 +16,7 @@ Reset functionality to clear input fields and output
 
 Basic validation and clean output display
 
+---
 
 🧮 Billing Logic:
 
@@ -33,6 +35,8 @@ Java Swing GUI
 
 Eclipse IDE or any Java-compatible IDE
 
+---
+
 🚀 How to Run:
 
 Clone the repository:
@@ -42,6 +46,8 @@ Open the project in Eclipse or your preferred IDE.
 Run the Electricity_Billing_System.java file.
 
 Enter details and click OK to generate a bill or Reset to clear the form.
+
+---
 
 🖼️ UI Preview:
 
