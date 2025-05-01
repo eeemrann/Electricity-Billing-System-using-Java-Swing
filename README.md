@@ -37,8 +37,6 @@ Eclipse IDE or any Java-compatible IDE
 
 Clone the repository:
 
-git clone https://github.com/eeemrann/electricity-billing-system.git
-
 Open the project in Eclipse or your preferred IDE.
 
 Run the Electricity_Billing_System.java file.
